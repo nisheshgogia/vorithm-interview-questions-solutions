@@ -12,8 +12,15 @@ This repository is organized by **subject** (programming language) and then by *
 │   ├── strings/
 │   ├── dictionaries/
 │   ├── lists/
-│   ├── algorithms/
-│   └── ...
+│   ├── linked_lists/
+│   ├── trees/
+│   ├── hashsets/
+│   ├── matrices/
+│   ├── recursion/
+│   ├── sliding_window/
+│   ├── bit_manipulation/
+│   ├── math/
+│   └── machine_learning/
 ├── JavaScript/
 │   ├── arrays/
 │   ├── objects/
